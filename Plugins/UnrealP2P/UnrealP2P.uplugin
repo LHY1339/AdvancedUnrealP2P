@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealP2P",
+	"Description": "Unreal P2P System",
+	"Category": "Other",
+	"CreatedBy": "LHY1339",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/LHY1339",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/LHY1339",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealP2P",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Android"
+			]
+		}
+	]
+}

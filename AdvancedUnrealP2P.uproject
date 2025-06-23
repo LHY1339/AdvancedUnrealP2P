@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BA89315B-4149-C2AE-3FA0-C9BAEA637D91}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AdvancedUnrealP2P",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
