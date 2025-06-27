@@ -10,10 +10,10 @@
 	"DocsURL": "https://github.com/LHY1339",
 	"MarketplaceURL": "",
 	"SupportURL": "https://github.com/LHY1339",
+	"EngineVersion": "4.27.0",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
-	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "UnrealP2P",
@@ -23,6 +23,12 @@
 				"Win64",
 				"Android"
 			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
 		}
 	]
 }

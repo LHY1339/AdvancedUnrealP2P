@@ -3,6 +3,10 @@
 #include "SocketSubsystem.h"
 #include "Common/UdpSocketBuilder.h"
 #include "Kismet/KismetSystemLibrary.h"
+#include "GameFramework/PlayerController.h"
+#include "Engine/Engine.h"
+#include "Engine/NetDriver.h"
+#include "Engine/World.h"
 #include "IpNetDriver.h"
 #include "P2PLibrary.h"
 

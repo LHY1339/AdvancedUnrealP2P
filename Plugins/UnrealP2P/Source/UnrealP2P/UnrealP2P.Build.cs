@@ -41,7 +41,6 @@ public class UnrealP2P : ModuleRules
 				"Sockets",
 				"Networking",
 				"OnlineSubsystemUtils",
-				"UMG",
 			}
 			);
 		

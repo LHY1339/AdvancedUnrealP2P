@@ -3,6 +3,8 @@
 #include "CoreMinimal.h"
 #include "P2PObject.h"
 #include "Subsystems/GameInstanceSubsystem.h"
+#include "Tickable.h"
+#include "Sockets.h"
 #include "P2PSubsystem.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnSessionListChange);
